@@ -1,0 +1,18 @@
+.emptycart{
+  margin: 10%;
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+.abc{
+  width: 10em;
+  margin: 2em;
+  padding: 0.5em;
+  border-radius: 10px;
+}
+.abc:hover{
+ background-color: rgb(249, 69, 9);
+}
